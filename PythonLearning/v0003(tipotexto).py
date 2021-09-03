@@ -1,0 +1,8 @@
+n = (input('Digite algo: '))
+print('The texted thing is alphabet?', n.isalpha())
+print('The texted thing is numeric?', n.isnumeric())
+print('The texted thing is alphanumeric?', n.isalnum())
+print('The texted thing is in Upper?', n.isupper())
+print('The texted thing is in Lower?', n.islower())
+print('The texted thing is in Title?', n.istitle())
+print('What is the type of texted thing?', (type(n)))

@@ -1,0 +1,6 @@
+print('='*21)
+print('Calculadora de média')
+print('='*21)
+n1 = float(input('Insira uma nota: '))
+n2 = float(input('Insita a segunda nota: '))
+print(f'A média de notas é igual a {(n1+n2)/2:.1f}.')

@@ -1,0 +1,5 @@
+print('='*21)
+print('Conversor de medidas')
+print('='*21)
+m = float(input('Insira uma medida em metros: '))
+print(f'Sua medida ({m}m) em centímetros é igual a: {m*100}cm ou {m*1000}mm')

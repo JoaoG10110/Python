@@ -1,0 +1,7 @@
+n = str(input('Digite um número entre 0 e 9999: '))
+print('Analisando o número...')
+n = n.split()
+print(f'Unidade: {(n[0][3])}')
+print(f'Dezena: {(n[0][2])}')
+print(f'Centena: {(n[0][1])}')
+print(f'Milhar: {(n[0][0])}')
