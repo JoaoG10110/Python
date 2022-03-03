@@ -4,13 +4,13 @@ print('-=-'*15)
 print(' ')
 print('INVENTÁRIO')
 print(' ')
-print('[1] MODELO 1 128GB \nR$3.300,00')
+print('[1] Samsung Galaxy S20 128GB \nR$3.300,00')
 pitem1 = 3300
 print(' ')
-print('[2] MODELO 2 512GB \nR$7.500,00')
+print('[2] iPhone 12 Pro 128GB \nR$7.500,00')
 pitem2 = 7500
 print(' ')
-print('[3] MODELO 3 256GB \nR$5.400,00')
+print('[3] Samsung Galaxy S21 128GB \nR$5.400,00')
 pitem3 = 5400
 print(' ')
 item = int(input('Digite o número do produto que deseja comprar: '))
